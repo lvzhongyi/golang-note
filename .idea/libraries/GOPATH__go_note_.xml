@@ -1,0 +1,21 @@
+<component name="libraryTable">
+  <library name="GOPATH &lt;go_note&gt;">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../go_rename" />
+      <root url="file://$PROJECT_DIR$/../beeblog" />
+      <root url="file://$PROJECT_DIR$/../wxapi1" />
+      <root url="file://$PROJECT_DIR$/../github.com" />
+      <root url="file://$PROJECT_DIR$/../OrderFood" />
+    </CLASSES>
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../go_rename" />
+      <root url="file://$PROJECT_DIR$/../beeblog" />
+      <root url="file://$PROJECT_DIR$/../wxapi1" />
+      <root url="file://$PROJECT_DIR$/../github.com" />
+      <root url="file://$PROJECT_DIR$/../OrderFood" />
+    </SOURCES>
+    <excluded>
+      <root url="file://$PROJECT_DIR$" />
+    </excluded>
+  </library>
+</component>
